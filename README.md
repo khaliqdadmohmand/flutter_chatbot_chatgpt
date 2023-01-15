@@ -2,7 +2,8 @@
 
 A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 
-[<img src="https://img.youtube.com/vi/5nbXDWNiLrM/maxresdefault.jpg" width="50%">](https://youtu.be/5nbXDWNiLrM)
+
+[![Flutter ChatBot](http://img.youtube.com/vi/5nbXDWNiLrM/0.jpg)](https://www.youtube.com/watch?v=5nbXDWNiLrM&feature=youtu.be&hd=1 "Flutter Chatbot")
 
 ## ChatGPT Application with flutter
 
